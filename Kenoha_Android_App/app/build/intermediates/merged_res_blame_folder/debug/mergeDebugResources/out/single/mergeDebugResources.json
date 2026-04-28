@@ -1,0 +1,262 @@
+[
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/anim_fade_in.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/anim/fade_in.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/drawable_rounded_button.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/drawable/rounded_button.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/drawable_mike_animation.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/drawable/mike_animation.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/layout_acivity_sign_up.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/layout/acivity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/drawable_ic_add.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/layout_splash_background.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/layout/splash_background.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/anim_fade_scale_in.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/anim/fade_scale_in.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.kenoha1.app-main-74:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/layout_activity_main.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/drawable_btn_light_gray.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/drawable/btn_light_gray.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/drawable_ic_water.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/drawable/ic_water.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/drawable_edittext_bg.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/drawable/edittext_bg.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/drawable_rounded_card_bg.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/drawable/rounded_card_bg.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/drawable_rounded_card.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/drawable/rounded_card.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/anim_layout_fade_in.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/anim/layout_fade_in.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/drawable_mic_3.png.flat",
+        "source": "com.example.kenoha1.app-main-74:/drawable/mic_3.png"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/drawable_ic_default_user.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/drawable/ic_default_user.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.kenoha1.app-main-74:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/layout_activity_assistance.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/layout/activity_assistance.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/drawable_ic_chevron_right.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/drawable/ic_chevron_right.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.kenoha1.app-main-74:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.kenoha1.app-main-74:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/layout_item_message.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/layout/item_message.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.kenoha1.app-main-74:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/layout_item_message_bot.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/layout/item_message_bot.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/drawable_image_circle_bg.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/drawable/image_circle_bg.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/anim_alpha.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/anim/alpha.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/drawable_ic_notification.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/drawable/ic_notification.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/drawable_ic_success.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/drawable/ic_success.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/drawable_reminder_card_bg.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/drawable/reminder_card_bg.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/drawable_app_logo.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/drawable/app_logo.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.kenoha1.app-main-74:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/drawable_message_bg.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/drawable/message_bg.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/drawable_ic_qa.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/drawable/ic_qa.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/layout_activity_water_reminder.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/layout/activity_water_reminder.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/layout_activity_profile_centered.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/layout/activity_profile_centered.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.kenoha1.app-main-74:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/drawable_ic_edit.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/drawable_ic_delete.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/layout_item_reminder.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/layout/item_reminder.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/drawable_splash_gif.gif.flat",
+        "source": "com.example.kenoha1.app-main-74:/drawable/splash_gif.gif"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/drawable_mic_1.png.flat",
+        "source": "com.example.kenoha1.app-main-74:/drawable/mic_1.png"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/drawable_ic_call.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/drawable/ic_call.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/layout_activity_user_details.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/layout/activity_user_details.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/layout_activity_emergency_call.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/layout/activity_emergency_call.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/drawable_ic_appointment.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/drawable/ic_appointment.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/drawable_message_bg_user.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/drawable/message_bg_user.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.kenoha1.app-main-74:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/drawable_ic_person.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/layout_item_hospital.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/layout/item_hospital.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/drawable_message_bg_bot.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/drawable/message_bg_bot.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.kenoha1.app-main-74:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/drawable_mic_2.png.flat",
+        "source": "com.example.kenoha1.app-main-74:/drawable/mic_2.png"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/layout_activity_signin.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/layout/activity_signin.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/drawable_edittext_rounded.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/drawable/edittext_rounded.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/drawable_ic_ud.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/drawable/ic_ud.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/drawable_ic_rem.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/drawable/ic_rem.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/anim_layout_slide_in.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/anim/layout_slide_in.xml"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.kenoha1.app-main-74:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.kenoha1.app-debug-72:/xml_backup_rules.xml.flat",
+        "source": "com.example.kenoha1.app-main-74:/xml/backup_rules.xml"
+    }
+]

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F7F8FA"
+    android:padding="24dp">
+
+    <!-- Rotating loader -->
+    <ProgressBar
+        android:id="@+id/loadingProgress"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:indeterminate="true"
+        android:indeterminateTint="@color/purple_500"
+        android:layout_marginBottom="20dp" />
+
+    <!-- Success checkmark (hidden initially) -->
+    <ImageView
+        android:id="@+id/successIcon"
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:src="@drawable/ic_success"
+        android:visibility="gone"
+        android:tint="#4CAF50"
+        android:layout_marginBottom="20dp"
+        android:contentDescription="Success Icon" />
+
+    <!-- Status text -->
+    <TextView
+        android:id="@+id/statusText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Initiating Emergency Call..."
+        android:textSize="18sp"
+        android:textColor="#333333"
+        android:fontFamily="sans-serif-medium" />
+</LinearLayout>
