@@ -1,0 +1,50 @@
+############################
+# Android / Gradle
+############################
+*.iml
+.gradle/
+.idea/
+local.properties
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+
+
+############################
+# Python
+############################
+__pycache__/
+*.pyc
+
+# Virtual environments (anywhere)
+venv/
+env/
+AssistantEnv/
+
+# Specific backend venvs
+Kenoha_Backend/Assistant_backend/AssistantEnv/
+Kenoha_Backend/twilio_backend/twilio_venv/
+
+
+
+############################
+# Legacy root Android files
+############################
+/app/
+/kotlin/
+/gradle/
+build.gradle.kts
+settings.gradle.kts
+gradlew
+gradlew.bat
+
+
+
+############################
+# OS / Editor junk
+############################
+.DS_Store
+Thumbs.db
+.vscode/
