@@ -145,10 +145,21 @@ AI-Based-Healthcare-Application-Kenoha/
 
 ## 👨‍💻 Developer
 
-**Suhas Manjunatha** <br>
-**Skanda Shanbhog** <br>
-**Vinith Manjunath** <br>
-**Prajna Nayak** <br>
+**Suhas Manjunatha**  — 
+<a href="https://github.com/Suhas-2718"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/></a><tab>
+<a href="https://www.linkedin.com/in/suhas-manjunatha21"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/></a><br>
+
+**Skanda Shanbhog**  — 
+<a href="https://github.com/skandashanbhog"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/></a>
+<a href="https://www.linkedin.com/in/skandashanbhog"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/></a><br>
+
+**Vinith Manjunath**  — 
+<a href="https://github.com/Suhas-2718"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/></a>
+<a href="https://www.linkedin.com/in/vinith-manjunath"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/></a><br>
+
+**Prajna Nayak**  — 
+<a href="https://github.com/Suhas-2718"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/></a>
+<a href="https://www.linkedin.com/in/nayakprajna/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/></a><br>
 
 ---
 
