@@ -84,15 +84,15 @@ Whether users need quick health guidance, emergency actions, or everyday support
 
 Click below to download the application:
 
-👉 **[Download APK](https://raw.githubusercontent.com/Suhas-2718/AI-Based-Healthcare-Application-Kenoha/main/Android ApplicationApp/Kenoha.apk)**
+👉 [Download APK](https://raw.githubusercontent.com/Suhas-2718/AI-Based-Healthcare-Application-Kenoha/main/Android%20Application/Kenoha.apk)
 
-### Installation steps:
+### Installation Steps:
 1. Download the APK from the link above.  
-2. Transfer it to your Android device (or open directly if downloaded there).  
-3. Enable **Install from Unknown Sources** in device settings.  
-4. Tap the APK to install.
-5. Before opening the app give the **micrphone permission externally** 🎤
-6. Open the app and your Assistant is at your assistance
+2. Open it on your Android device.  
+3. Enable **Install from Unknown Sources**.  
+4. Tap the APK to install.  
+5. Grant **Microphone, Location and all the necessary permissions.** 🎤  
+6. Launch the app.
 
 ---
 
