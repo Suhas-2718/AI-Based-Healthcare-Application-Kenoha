@@ -159,7 +159,7 @@ AI-Based-Healthcare-Application-Kenoha/
 
 **Prajna Nayak**  — 
 <a href="https://github.com/Suhas-2718"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18"/></a>
-<a href="https://www.linkedin.com/in/nayakprajna/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/></a><br>
+<a href="https://www.linkedin.com/in/nayakprajna"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/></a><br>
 
 ---
 
