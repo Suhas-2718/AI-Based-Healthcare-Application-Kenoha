@@ -32,7 +32,6 @@ Kenoha_Backend/twilio_backend/twilio_venv/
 ############################
 # Legacy root Android files
 ############################
-/app/
 /kotlin/
 /gradle/
 build.gradle.kts

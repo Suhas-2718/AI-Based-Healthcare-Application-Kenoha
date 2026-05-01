@@ -1,0 +1,280 @@
+<!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    xmlns:app="http://schemas.android.com/apk/res-auto"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent"-->
+<!--    android:orientation="vertical"-->
+<!--    android:padding="24dp"-->
+<!--    android:gravity="center">-->
+
+<!--    &lt;!&ndash; Profile Image Frame &ndash;&gt;-->
+<!--    <FrameLayout-->
+<!--        android:layout_width="130dp"-->
+<!--        android:layout_height="130dp"-->
+<!--        android:layout_gravity="center">-->
+
+<!--        &lt;!&ndash; Profile Image &ndash;&gt;-->
+<!--        <com.google.android.material.imageview.ShapeableImageView-->
+<!--            android:id="@+id/profileImage"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:scaleType="centerCrop"-->
+<!--            android:src="@drawable/ic_default_user"-->
+<!--            app:shapeAppearanceOverlay="@style/CircularImage"-->
+<!--            android:background="@drawable/image_circle_bg"-->
+<!--            android:padding="2dp" />-->
+
+<!--        &lt;!&ndash; Edit Icon &ndash;&gt;-->
+<!--        <ImageView-->
+<!--            android:id="@+id/editIcon"-->
+<!--            android:layout_width="43dp"-->
+<!--            android:layout_height="43dp"-->
+<!--            android:layout_gravity="bottom|end"-->
+<!--            android:layout_margin="4dp"-->
+<!--            android:background="@drawable/image_circle_bg"-->
+<!--            android:padding="6dp"-->
+<!--            android:elevation="4dp"-->
+<!--            android:src="@drawable/ic_edit"-->
+<!--            android:contentDescription="Edit Profile"-->
+<!--            android:clickable="true"-->
+<!--            android:focusable="true" />-->
+
+<!--        &lt;!&ndash; Remove Icon &ndash;&gt;-->
+<!--        <ImageView-->
+<!--            android:id="@+id/removeImageButton"-->
+<!--            android:layout_width="43dp"-->
+<!--            android:layout_height="43dp"-->
+<!--            android:layout_gravity="bottom|end"-->
+<!--            android:layout_margin="4dp"-->
+<!--            android:background="@drawable/image_circle_bg"-->
+<!--            android:padding="6dp"-->
+<!--            android:elevation="4dp"-->
+<!--            android:visibility="gone"-->
+<!--            android:src="@drawable/ic_delete"-->
+<!--            android:contentDescription="Delete Profile"-->
+<!--            android:clickable="true"-->
+<!--            android:focusable="true" />-->
+<!--    </FrameLayout>-->
+
+<!--    &lt;!&ndash; Name Field &ndash;&gt;-->
+<!--    <LinearLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:orientation="horizontal"-->
+<!--        android:gravity="center_vertical"-->
+<!--        android:layout_marginTop="24dp">-->
+
+<!--        <TextView-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="Name:"-->
+<!--            android:textSize="18sp"-->
+<!--            android:textColor="@android:color/black"-->
+<!--            android:layout_marginEnd="8dp" />-->
+
+<!--        <EditText-->
+<!--            android:id="@+id/userName"-->
+<!--            android:layout_width="0dp"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_weight="1"-->
+<!--            android:hint="User name"-->
+<!--            android:enabled="false"-->
+<!--            android:textColor="@android:color/black"-->
+<!--            android:textSize="18sp"-->
+<!--            android:backgroundTint="@color/black" />-->
+<!--    </LinearLayout>-->
+
+<!--    &lt;!&ndash; Phone Field &ndash;&gt;-->
+<!--    <LinearLayout-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:orientation="horizontal"-->
+<!--        android:gravity="center_vertical"-->
+<!--        android:layout_marginTop="16dp">-->
+
+<!--        <TextView-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="Emergency Contact:"-->
+<!--            android:textSize="18sp"-->
+<!--            android:textColor="@android:color/black"-->
+<!--            android:layout_marginEnd="8dp" />-->
+
+<!--        <EditText-->
+<!--            android:id="@+id/userPhone"-->
+<!--            android:layout_width="0dp"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_weight="1"-->
+<!--            android:hint="Emergency number"-->
+<!--            android:enabled="false"-->
+<!--            android:textColor="@android:color/black"-->
+<!--            android:textSize="18sp"-->
+<!--            android:inputType="phone"-->
+<!--            android:backgroundTint="@color/black" />-->
+<!--    </LinearLayout>-->
+
+<!--    &lt;!&ndash; Save Button &ndash;&gt;-->
+<!--    <Button-->
+<!--        android:id="@+id/saveButton"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Save"-->
+<!--        android:layout_marginTop="20dp"-->
+<!--        android:visibility="gone" />-->
+
+<!--</LinearLayout>-->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center">
+
+    <!-- Profile Image Frame -->
+    <FrameLayout
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:layout_gravity="center">
+
+        <!-- Profile Image -->
+        <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/profileImage"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_default_user"
+            app:shapeAppearanceOverlay="@style/CircularImage"
+            android:background="@drawable/image_circle_bg"
+            android:padding="2dp" />
+
+        <!-- Edit Icon -->
+        <ImageView
+            android:id="@+id/editIcon"
+            android:layout_width="43dp"
+            android:layout_height="43dp"
+            android:layout_gravity="bottom|end"
+            android:layout_margin="4dp"
+            android:background="@drawable/image_circle_bg"
+            android:padding="6dp"
+            android:elevation="4dp"
+            android:src="@drawable/ic_edit"
+            android:contentDescription="Edit Profile"
+            android:clickable="true"
+            android:focusable="true" />
+
+        <!-- Remove Icon -->
+        <ImageView
+            android:id="@+id/removeImageButton"
+            android:layout_width="43dp"
+            android:layout_height="43dp"
+            android:layout_gravity="bottom|end"
+            android:layout_margin="4dp"
+            android:background="@drawable/image_circle_bg"
+            android:padding="6dp"
+            android:elevation="4dp"
+            android:visibility="gone"
+            android:src="@drawable/ic_delete"
+            android:contentDescription="Delete Profile"
+            android:clickable="true"
+            android:focusable="true" />
+    </FrameLayout>
+
+    <!-- Name Field -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_marginTop="24dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Name:"
+            android:textSize="18sp"
+            android:textColor="@android:color/black"
+            android:layout_marginEnd="8dp" />
+
+        <EditText
+            android:id="@+id/userName"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="User name"
+            android:enabled="false"
+            android:textColor="@android:color/black"
+            android:textSize="18sp"
+            android:backgroundTint="@color/black" />
+    </LinearLayout>
+
+    <!-- Phone Field 1 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_marginTop="16dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Emergency Contact 1:"
+            android:textSize="18sp"
+            android:textColor="@android:color/black"
+            android:layout_marginEnd="8dp" />
+
+        <EditText
+            android:id="@+id/userPhone"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="Emergency number"
+            android:enabled="false"
+            android:textColor="@android:color/black"
+            android:textSize="18sp"
+            android:inputType="phone"
+            android:backgroundTint="@color/black" />
+    </LinearLayout>
+
+    <!-- ⭐ NEW: Phone Field 2 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_marginTop="12dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Emergency Contact 2:"
+            android:textSize="18sp"
+            android:textColor="@android:color/black"
+            android:layout_marginEnd="8dp" />
+
+        <EditText
+            android:id="@+id/userPhone2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="Number not set"
+            android:enabled="false"
+            android:textColor="@android:color/black"
+            android:textSize="18sp"
+            android:inputType="phone"
+            android:backgroundTint="@color/black" />
+    </LinearLayout>
+    <!-- ⭐ END NEW -->
+
+    <!-- Save Button -->
+    <Button
+        android:id="@+id/saveButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Save"
+        android:layout_marginTop="20dp"
+        android:visibility="gone" />
+
+</LinearLayout>
+
