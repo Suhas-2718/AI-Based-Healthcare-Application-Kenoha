@@ -44,7 +44,7 @@ Whether users need quick health guidance, emergency actions, or everyday support
 ## 📱 Screenshots
 
 
-<img src="Screenshots/App Working.gif" alt="App Working Demo" width="300"/>    <img src="Screenshots/Emergency Call.gif" alt="Emergency Call" width="300"/>   <img src="Screenshots/QuickAssitance.gif" alt="Emergency Call" width="300"/> 
+<img src="Screenshots/HomeScreenPage.jpeg" alt="Home Screen" width="300"/>    <img src="Screenshots/LoginScreen.jpeg" alt="Login Screen" width="300"/>   <img src="Screenshots/QuickAssitanceScreen.jpeg" alt="Emergency Call" width="300"/>   <img src="Screenshots/WaterReminderScreen.jpeg" alt="Emergency Call" width="300"/> 
 
 
 ---
@@ -74,9 +74,7 @@ Whether users need quick health guidance, emergency actions, or everyday support
 
 ### 🤖 AI / Smart Modules
 
-* Conversational Logic
-* Recommendation Engine
-* Voice Interaction
+* ollama Lama phi3 (Finetuned on Health Datasets)
 
 ---
 
@@ -117,7 +115,7 @@ git clone https://github.com/Suhas-2718/AI-Based-Healthcare-Application-Kenoha.g
 2. Sync Gradle files
 3. Run Flask backend
 4. Launch Android app
-5. Experience Kenoha 🚀
+5. Experience Kenoha 🩺
 
 ---
 
